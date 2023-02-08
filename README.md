@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beki-strauser
-- 👀 I’m interested in 🎮 🌵 🐈‍ 🧋 💻
-- 🌱 I’m currently learning how to cread html/css art
-- 💞️ I’m looking to collaborate on 🤷‍♀️
+- 👀 I’m interested in 🎮 🌵 🐈‍  💻  🏋️
+- 🌱 I’m currently learning how to create html/css art
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me beki.strauser@gmail.com
 
 <!---
