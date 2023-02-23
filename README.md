@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beki-strauser
-- 👀 I’m interested in 🎮 🌵 🐈‍  💻  🏋️
-- 🌱 I’m currently learning how to create html/css art
+- 👀 I’m interested in UI/UX | Accessibility | Front End| SaaS Projects | Websites 
+- 🌱 I’m currently learning how to create React apps using the MERN stack
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me beki.strauser@gmail.com
 
